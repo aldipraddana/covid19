@@ -1,3 +1,4 @@
+//aldi pradana 2020
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import $ from "jquery";
